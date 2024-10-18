@@ -1,4 +1,8 @@
 {
+  "engines": {
+    "node": "20.x"
+  }
+}
   "name": "nextchat",
   "private": false,
   "license": "mit",
